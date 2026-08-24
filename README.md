@@ -4,9 +4,9 @@
 
 ### AI Engineer focused on Generative AI, LLM Engineering, and Agentic AI
 
-</div>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=MennaM2&label=Profile%20Views&color=0e75b6&style=flat)
+
+</div>
 
 ---
 
@@ -80,10 +80,14 @@ A predictive model that identifies customers likely to churn, helping businesses
 
 ## 📊 GitHub Stats
 
+<div align="center">
+
 ![Menna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MennaM2&show_icons=true&hide_border=true&theme=transparent)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MennaM2&layout=compact&hide_border=true&theme=transparent)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MennaM2&theme=transparent&hide_border=true)
+
+</div>
 
 ---
 
