@@ -1,8 +1,12 @@
+<div align="center">
+
 # Hi 👋, I'm Menna Mohamed
 
-###  AI Engineer focused on Generative AI, LLM Engineering, and Agentic AI
+### AI Engineer focused on Generative AI, LLM Engineering, and Agentic AI
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MennaM2&label=Profile%20Views&color=0e75b6&style=flat)
+
+</div>
 
 ---
 
@@ -39,6 +43,8 @@ A predictive model that identifies customers likely to churn, helping businesses
 
 ---
 
+<div align="center">
+
 ## 🧠 Areas of Focus
 
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge)
@@ -48,11 +54,14 @@ A predictive model that identifies customers likely to churn, helping businesses
 ![NLP](https://img.shields.io/badge/NLP-0A67ED?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-A067E0?style=for-the-badge)
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 🛠️ Languages and Tools
 
-<p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" alt="Jupyter"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" alt="Pandas"/>
@@ -64,7 +73,8 @@ A predictive model that identifies customers likely to churn, helping businesses
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" alt="React"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" alt="Git"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" alt="GitHub"/>
-</p>
+
+</div>
 
 ---
 
@@ -74,6 +84,8 @@ A predictive model that identifies customers likely to churn, helping businesses
 
 ---
 
+<div align="center">
+
 ## 📊 GitHub Stats
 
 ![Menna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MennaM2&show_icons=true&hide_border=true&theme=transparent)
@@ -81,7 +93,11 @@ A predictive model that identifies customers likely to churn, helping businesses
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MennaM2&theme=transparent&hide_border=true)
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 📫 Connect With Me
 
@@ -93,3 +109,5 @@ A predictive model that identifies customers likely to churn, helping businesses
 ---
 
 **Building practical AI solutions with LLMs and intelligent systems. 🤖**
+
+</div>
