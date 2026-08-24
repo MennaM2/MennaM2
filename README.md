@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi 👋, I'm Menna Mohamed
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=180&section=header&text=Menna%20Mohamed&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Generative%20AI%20%C2%B7%20LLM%20Engineering%20%C2%B7%20Agentic%20AI&descAlignY=58&descSize=18" width="100%"/>
 
-### AI Engineer focused on Generative AI, LLM Engineering, and Agentic AI
+<img src="https://readme-typing-svg.demolab.com/?lines=AI+Engineer+focused+on+Generative+AI;LLM+Engineering+%26+Agentic+AI;Building+AI-powered+applications;Currently+exploring+LLMs%2C+RAG+%26+AI+Agents&font=Fira+Code&center=true&width=600&height=40&color=0e75b6&vCenter=true&size=22&pause=1200" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MennaM2&label=Profile%20Views&color=0e75b6&style=flat)
 
@@ -91,13 +91,33 @@ A predictive model that identifies customers likely to churn, helping businesses
 
 ---
 
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MennaM2/MennaM2/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MennaM2/MennaM2/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/MennaM2/MennaM2/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
 ## 📫 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MennaM2)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mennatallh-mohamed-322436324)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mentallahmohamed2004@gmail.com)
-[![CV](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/your-cv-link)
+[![CV](https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1HpSp0nv_j2czaagAkK9YqOhQySOfW35d/view?usp=sharing)
 
 ---
 
+<div align="center">
+
 **Building practical AI solutions with LLMs and intelligent systems. 🤖**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" width="100%"/>
+
+</div>
