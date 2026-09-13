@@ -25,9 +25,9 @@
 
 ## 🚀 Featured Projects
 
-### 🤖 AI Data Analyst Agent
-An AI-powered data analysis workspace — upload a CSV, ask questions in natural language, and an LLM agent selects Python tools for profiling, statistics, visualization, and ML readiness checks.
-[![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MennaM2/AI-Data-Analyst-Agent)
+### 🤖 AI-Powered Business Analysis & Automation Agent
+An agentic backend + UI that turns natural-language business questions into real tool calls — SQL joins across multiple datasets, trend & anomaly detection, ML model training, and automated report generation/delivery (PDF/Word/HTML, emailed via SMTP) — grounded in verified tool output, never invented answers.
+[![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MennaM2/AI-Powered-Business-Analysis-Agent)
 
 ### 💬 Senti — AI Mental Wellness Companion
 An AI-first mental-wellness chat app with automatic mood logging and context-aware answers, powered by real LLM tool-calling (Groq + FastAPI + React).
