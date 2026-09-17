@@ -25,9 +25,9 @@
 
 ## 🚀 Featured Projects
 
-### 🤖 AI-Powered Business Analysis & Automation Agent
-An agentic backend + UI that turns natural-language business questions into real tool calls — SQL joins across multiple datasets, trend & anomaly detection, ML model training, and automated report generation/delivery (PDF/Word/HTML, emailed via SMTP) — grounded in verified tool output, never invented answers.
-[![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MennaM2/AI-Powered-Business-Analysis-Agent)
+### 🤖 MODX AI — Python · FastAPI · Gemini · DuckDB
+Agentic BI workbench that cleans messy real-world files (bad delimiters, multi-sheet Excel, nested JSON) automatically, then answers business questions with real SQL/ML tool calls — grounded in verified output, never invented.
+[![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MennaM2/MODX_AI_Business_Intelligence_-_ML)
 
 ### 💬 Senti — AI Mental Wellness Companion
 An AI-first mental-wellness chat app with automatic mood logging and context-aware answers, powered by real LLM tool-calling (Groq + FastAPI + React).
